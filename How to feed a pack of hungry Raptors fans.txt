@@ -1,0 +1,26 @@
+# How do you feed a pack of hungry Raptor's fans? 
+The Toronto's First McChampionship Season!
+
+# McDonald's gave away millions of dollars in free medium french fries during the 2018-2019 season for every game when the Raptors scored 12 or more 3 pointers. According to a Finanicial Post article, McDonalds had given away 2 million medium orders of french fries, that's nearly 3 times the 700,000 orders the company projected its Ontario restaurants would give away during the promotion. The regular season's two million free orders, at an average menu price of $2.89 was $5.8 million worth of fries. McDonald's had forecasted it's projections for the Raptors based on a previous fry give away program with the Montreal Canadiens. Although McDonald's head office isn't concerned about giving away over $5 million in free french fries, Head of Marketing for McDonald's in Eastern Canada, Chuck Cooleen, said headoffice is concerned about the strain on franchise owners to meet the demand of the promotion. A McDonald's franchise owner in reported they had to hire an additional line cook for the day, during the promotion on an average day one location gave away 500 free orders of french fries, the highest record give away was 960 for this location. The McDonald's promotion was designed to drive customers to the restaurants mobile application to place orders, as customers woudld have to place their order for free fries through the mobile application; allowing McDonalds to collect data about their customers.
+
+Hypothesis: Can McDonald’s franchises predict when the Raptors will score 12 or more 3 pointers, triggering McDonald’s promotional give away of free medium fries the following day? 
+
+# Questions, McDonald's give away promotion 2018-2019 season: 
+1) Which players scored fans the most free fries?
+2) How many 3 pointers did each players who score?
+3) Against which teams did the Raptors score the greatest to the least amount of free fries? By each NBA player the Raptors played against?
+4) How many times did the raptors score free fries, at home and during away games?
+5) On average, how many games in the 2018-2019 season scored more than twelve 3 pointers?
+6) When did fans score free fries?
+
+Predictive Questions for 2019-2020 season:
+7) Which teams are the Raptors most likely to score free fries against? 
+	#When are the Raptors scheduled to play theseteams? 
+	Note: To estimate which teams the Raptors are most likely to score free fries, look at which teams the raptors scored the most 3 pointers. 
+	*Consider that team players have changed.
+
+*Holly - I see great potential to get more creative with our questions - feel free to add/change up the questions. 
+Data - Alot of groups will be using less than perfect data sets e.g. kaggle, is data sourced by other people with potentially less than perfect data collection/practices. But the NBA does have high quality data sources we can rely on. I believe we could do this project almost perfectly becuse we have quality data.
+ 
+Refrences:
+How the Raptors' historic run left McDonald's on the hook for millions in free french fries, Financial Post, June 13th, 2019, updated January 10th, 2020: https://business.financialpost.com/news/retail-marketing/how-the-raptors-historic-run-left-mcdonalds-on-the-hook-for-millions-in-free-french-fries
