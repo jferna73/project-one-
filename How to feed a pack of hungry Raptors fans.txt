@@ -8,7 +8,7 @@ Hypothesis: Can McDonald’s franchises predict when the Raptors will score 12 o
 # Questions, McDonald's give away promotion 2018-2019 season: 
 1) Which players scored fans the most free fries?
 2) How many 3 pointers did each players who score?
-3) Against which teams did the Raptors score the greatest to the least amount of free fries? By each NBA player the Raptors played against?
+3) Against which teams did the Raptors score the greatest to the least amount of free fries?
 4) How many times did the raptors score free fries, at home and during away games?
 5) On average, how many games in the 2018-2019 season scored more than twelve 3 pointers?
 6) When did fans score free fries?
